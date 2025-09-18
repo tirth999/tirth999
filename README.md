@@ -32,3 +32,7 @@
 <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:your.email@domain.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
+
+
+<img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" width="26" height="26">
+<img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" width="26" height="26">

@@ -1,4 +1,4 @@
-- Portfolio Website - www.tirthisamaliya.com
+- 👨🏻‍💻 Portfolio Website - www.tirthisamaliya.com
 - 🌱 I’m currently learning **[System Design](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)**
 - 💬 Ask me about JavaScript, Node.js, React...or anything 
 
